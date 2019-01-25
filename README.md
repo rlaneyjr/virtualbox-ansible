@@ -10,7 +10,7 @@ Use the IP or the hostname here that Ansible was running against. Make sure port
 For the first login use `admin:admin`. See more details in the [phpVirtualbox docs](https://github.com/phpvirtualbox/phpvirtualbox/wiki/Authentication-in-phpVirtualBox#logging-in-for-the-first-time)
 
 ## Requirements
-Tested with Ubuntu 14.04 and 16.04. Probably works with all Debian and Ubuntu flavours and versions which are not too old.
+Tested with Ubuntu 16.04 and 18.04. Probably works with all Debian and Ubuntu flavours and versions which are not too old.
 
 ## Role Variables
 Those are the role variables you probably want to change:
