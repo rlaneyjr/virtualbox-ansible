@@ -1,0 +1,7 @@
+---
+# handlers file for mediapeers.virtualbox
+
+- name: restart vboxweb-service
+  service:
+    name: vboxweb-service
+    state: restarted

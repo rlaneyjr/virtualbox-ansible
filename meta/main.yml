@@ -1,0 +1,22 @@
+---
+galaxy_info:
+  author: Stefan Horning <horning@mediapeers.com>
+  description: Installs VirtualBox and phpVirtualBox on a headless Ubuntu server.
+  company: Mediapeers
+  license: BSD
+  min_ansible_version: 2.4
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+  galaxy_tags:
+    - php
+    - virtualbox
+    - webinterface
+    - server
+    - virtualisation
+
+dependencies: []
