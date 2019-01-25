@@ -39,4 +39,4 @@ Then use it like so:
 BSD
 
 ## Author Information
-Stefan Horning <horning@mediapeers.com>
+Ricky Laney <rlaneyjr@gmail.com>
